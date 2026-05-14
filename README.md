@@ -112,5 +112,3 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 - At Global level, debt is also owed to global economy, that is every liablity for a Government, Company, Bank or an Individual, is a **Asset** to another Government, Company, Bank or an Individual.
 
 - More global debt is benificial if it is used into projects that will produce more value in the global economy in long run.
-## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
