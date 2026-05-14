@@ -18,7 +18,6 @@ The focus of this project is to delve into the realm of international debt analy
 
 ## **Reports**
 #### [Interactive report on Novapro]()
-#### [Interactive report on Tushar-Aggarwal.com]()
 #### [SQL Queries Report]()
 
 ## Project Structure
@@ -113,14 +112,5 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 - At Global level, debt is also owed to global economy, that is every liablity for a Government, Company, Bank or an Individual, is a **Asset** to another Government, Company, Bank or an Individual.
 
 - More global debt is benificial if it is used into projects that will produce more value in the global economy in long run.
-
-
-## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
 ## Contact me!
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
